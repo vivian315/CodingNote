@@ -3,3 +3,5 @@
 解决方案：按照pygame 2.0.0.dev8
 Tip: pycharm->Preferences->Prject:***->Project Interpreter ,指定pygame的Specify version 为 2.0.0.dev8, 安装并指定此包即可
      或者 命令行安装：pip3 install pygame=2.0.0.dev8 --user
+
+验证：python3 -m pygame.examples.aliens
